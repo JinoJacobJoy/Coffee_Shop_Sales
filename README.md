@@ -4,7 +4,7 @@
 - 
    **1.** Create a _[Coffee_Shop_Sales dashboard](https://github.com/JinoJacobJoy/Coffee_Shop_Sales/blob/main/Coffee_Sales_Dashboard.png)_ 
 
-   **2.** Conduct a comprehensive study of Locations, Revenue generated, Price/order, Product category sales _[Excel file]([https://github.com/JinoJacobJoy/Coffee_Shop_Sales/blob/main/Coffee_Shop_Sales.xlsx)_
+   **2.** Conduct a comprehensive study of Locations, Revenue generated, Price/order, Product category sales _[Excel file](https://github.com/JinoJacobJoy/Coffee_Shop_Sales/blob/main/Coffee_Shop_Sales.xlsx)_
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
