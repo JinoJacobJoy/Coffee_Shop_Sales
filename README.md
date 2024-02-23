@@ -2,9 +2,9 @@
 ## Sales Report :
 _[- **Project objective:**]_[https://github.com/JinoJacobJoy/Coffee_Shop_Sales/blob/main/Coffee%20Shop%20Sales%20Analysis.pdf)_
  **Task :**_
-    **1.** Create a _[Coffee_Shop_Sales dashboard](https://github.com/JinoJacobJoy/Coffee_Shop_Sales/blob/main/Coffee_Sales_Dashboard.png)_ 
+   **1.** Create a _[Coffee_Shop_Sales dashboard](https://github.com/JinoJacobJoy/Coffee_Shop_Sales/blob/main/Coffee_Sales_Dashboard.png)_ 
 
-    **2.** Conduct a comprehensive study of Locations, Revenue generated, Price/order, Product category sales  _[https://github.com/JinoJacobJoy/Coffee_Shop_Sales/blob/main/Coffee_Shop_Sales.xlsx)_
+   **2.** Conduct a comprehensive study of Locations, Revenue generated, Price/order, Product category sales _[Excel file]_[https://github.com/JinoJacobJoy/Coffee_Shop_Sales/blob/main/Coffee_Shop_Sales.xlsx)_
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
