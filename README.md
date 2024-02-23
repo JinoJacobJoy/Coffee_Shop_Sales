@@ -1,6 +1,6 @@
 # Coffee_Shop_Sales_Analytics
 ## Sales Report :
-- **Project objective:**_[https://github.com/JinoJacobJoy/Coffee_Shop_Sales/blob/main/Coffee%20Shop%20Sales%20Analysis.pdf)_
+- **_[Project objective]:**_[https://github.com/JinoJacobJoy/Coffee_Shop_Sales/blob/main/Coffee%20Shop%20Sales%20Analysis.pdf)_
  **Task achived :**_
     **1.** Create a _[Coffee_Shop_Sales dashboard](https://github.com/JinoJacobJoy/Coffee_Shop_Sales/blob/main/Coffee_Sales_Dashboard.png)_ 
 
